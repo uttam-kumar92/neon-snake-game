@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/68e5f668-bce7-4ed2-a738-96463286fa2a" alt="Neon Stream Snake Gameplay" width="800" />
+
+  # 🐍 Neon Stream Snake
+  
+  A high-speed, cyberpunk-themed snake arcade game built with a neon aesthetic.
+  
+  **[🕹️ PLAY THE GAME HERE](https://uttam-kumar92.github.io/neon-snake-game/)**
 </div>
-<img width="347" height="317" alt="GAME PAGE 2" src="https://github.com/user-attachments/assets/14d8c266-53d9-4aa1-b50a-9152fdd60fa2" />
-
-# 🐍 Neon Stream Snake
-A high-speed, cyberpunk-themed snake arcade game built with a neon aesthetic.
-
-**[🕹️ PLAY THE GAME HERE](https://uttam-kumar92.github.io/neon-snake-game/)**
 
 ---
 

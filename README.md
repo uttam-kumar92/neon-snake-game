@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
 # 🐍 Neon Stream Snake
@@ -15,7 +15,7 @@ A high-speed, cyberpunk-themed snake arcade game built with a neon aesthetic.
 * **Instant Start:** Click and play directly from your browser.
 
 ## 🛠️ Built With
-This project was a collaboration between a human developer and AI:
+Developed using an AI-Augmented Workflow. I acted as the lead architect and debugger, utilizing Google AI Studio to iterate on complex game logic and state management.
 * **[Google AI Studio (Gemini)](https://aistudio.google.com/)** - Core logic, React architecture, and real-time debugging.
 * **[React.js](https://reactjs.org/)** - Frontend framework.
 * **[Tailwind CSS](https://tailwindcss.com/)** - Styling and layout.

@@ -2,19 +2,26 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# 🐍 Neon Stream Snake
+A high-speed, cyberpunk-themed snake arcade game built with a neon aesthetic.
 
-This contains everything you need to run your app locally.
+**[🕹️ PLAY THE GAME HERE](https://uttam-kumar92.github.io/neon-snake-game/)**
 
-View your app in AI Studio: https://ai.studio/apps/b85dbcb2-4c16-45ea-a07f-1629b7e641bf
+---
 
-## Run Locally
+## 🚀 Features
+* **Neon Visuals:** High-contrast cyan and red CRT-style graphics.
+* **Responsive Controls:** Smooth movement designed for modern browsers.
+* **Instant Start:** Click and play directly from your browser.
 
-**Prerequisites:**  Node.js
+## 🛠️ Built With
+This project was a collaboration between a human developer and AI:
+* **[Google AI Studio (Gemini)](https://aistudio.google.com/)** - Core logic, React architecture, and real-time debugging.
+* **[React.js](https://reactjs.org/)** - Frontend framework.
+* **[Tailwind CSS](https://tailwindcss.com/)** - Styling and layout.
+* **[GitHub Pages](https://pages.github.com/)** - Hosting and deployment.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📖 How to Run Locally
+1. Clone the repo: `git clone https://github.com/uttam-kumar92/neon-snake-game.git`
+2. Install dependencies: `npm install`
+3. Run dev server: `npm run dev`
